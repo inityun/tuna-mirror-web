@@ -1,4 +1,5 @@
 # 局域网环境安装清华大学tuna mirror web
+#tuna #mirror
 
 公司现有VPN网的Mirror Server系统是RedHat 7.6，此次使用RedHat 7.6纯局域网安装。
 >RedHat 7.6
